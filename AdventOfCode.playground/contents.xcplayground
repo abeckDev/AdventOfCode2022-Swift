@@ -4,5 +4,7 @@
         <page name='Day1'/>
         <page name='Day2'/>
         <page name='Day3'/>
+        <page name='Day4'/>
+        <page name='Day5'/>
     </pages>
 </playground>
