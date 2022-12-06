@@ -18,7 +18,7 @@ let input = GetInput()
 
 func GetMarkerLenght(lenght: Int, chars: [Character]) -> Int{
     for i in 0 ... (chars.count - lenght - 1) {
-        //Check if the marker is in the current position (4 is minimu, so add it but remove the counter in the end (i+4-1)
+        //Check if the marker is in the current position (4 is minimum, so add it but remove the counter in the end (i+4-1))
         let marker = chars[i ... i + lenght - 1]
         //If the marker contains the exac and unique elements of four return solution
         if Set(marker).count == lenght {
