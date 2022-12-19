@@ -1,5 +1,4 @@
 import Foundation
-import RegexBuilder
 
 func GetInput() -> [String]{
     do{
