@@ -12,5 +12,6 @@ I am working with XCode Sandboxes to track the puzzles. There is one Sandbof fil
 * [Day 1 Source](https://github.com/abeckDev/AdventOfCode2022-Swift/blob/main/AdventOfCode.playground/Pages/Day1.xcplaygroundpage/Contents.swift)
 * [Day 2 Source](https://github.com/abeckDev/AdventOfCode2022-Swift/blob/main/AdventOfCode.playground/Pages/Day2.xcplaygroundpage/Contents.swift)
 * [Day 3 Source](https://github.com/abeckDev/AdventOfCode2022-Swift/blob/main/AdventOfCode.playground/Pages/Day3.xcplaygroundpage/Contents.swift)
+* [Day 4 Source](https://github.com/abeckDev/AdventOfCode2022-Swift/blob/main/AdventOfCode.playground/Pages/Day4.xcplaygroundpage/Contents.swift)
 * [Day 5 Source](https://github.com/abeckDev/AdventOfCode2022-Swift/blob/main/AdventOfCode.playground/Pages/Day5.xcplaygroundpage/Contents.swift)
 * [Day 6 Source](https://github.com/abeckDev/AdventOfCode2022-Swift/blob/main/AdventOfCode.playground/Pages/Day6.xcplaygroundpage/Contents.swift)
