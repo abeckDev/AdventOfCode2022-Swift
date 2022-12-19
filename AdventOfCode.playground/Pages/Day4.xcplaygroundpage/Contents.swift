@@ -14,22 +14,6 @@ func GetInput() -> [String]{
     fatalError()
 }
 
-func GetSmallerNumber(rangeA: ClosedRange<Int>, rangeB: ClosedRange<Int>) -> Int{
-    
-    if rangeA.lowerBound <= rangeB.lowerBound{
-        return rangeA.lowerBound
-    }
-    return rangeB.lowerBound
-}
-func GetBiggerNumber(rangeA: ClosedRange<Int>, rangeB: ClosedRange<Int>) -> Int{
-    
-    if rangeA.upperBound >= rangeB.upperBound{
-        return rangeA.upperBound
-    }
-    return rangeB.upperBound
-}
-
-
 let input = GetInput()
 
 var countContainingTasks: Int = 0
